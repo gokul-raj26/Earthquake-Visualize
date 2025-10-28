@@ -131,3 +131,10 @@ Earthquake data provided by the [U.S. Geological Survey Earthquake Hazards Progr
 - USGS for providing free, real-time earthquake data
 - OpenStreetMap contributors for map tiles
 - React Leaflet community for the mapping library
+
+
+
+## Candidate Information
+- **Name:** Gokul Raj M
+- **Candidate ID:** Naukri1025  
+- **Position Applied For:** Full Stack Developer  
